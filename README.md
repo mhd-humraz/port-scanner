@@ -25,8 +25,8 @@ A lightweight TCP port scanner written in Bash for Linux systems. Designed for l
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bash-port-scanner.git
-cd bash-port-scanner
+https://github.com/mhd-humraz/port-scanner.git
+cd port-scanner
 ```
 
 Make the script executable:
