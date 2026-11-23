@@ -1,0 +1,8 @@
+# Scan reports
+report.txt
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
